@@ -1,4 +1,9 @@
-CREATE TABLE projects (title, category, start_date, end_date);
+CREATE TABLE projects (
+  id INTEGER PRIMARY KEY, 
+  title TEXT, 
+  category TEXT, 
+  start_date TEXT, 
+  end_date TEXT);
 
 CREATE TABLE users (name, age);
 
