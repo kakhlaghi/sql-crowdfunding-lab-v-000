@@ -34,3 +34,7 @@ INSERT INTO users (name)
   VALUES ("Jim");
 INSERT INTO users (name)
   VALUES ("Tim");
+INSERT INTO users (name)
+  VALUES ("Hilde");
+INSERT INTO users (name)
+  VALUES ("Richard");
