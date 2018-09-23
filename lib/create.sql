@@ -7,7 +7,8 @@ CREATE TABLE projects (
   end_date TEXT);
 
 CREATE TABLE users (
-  name TEXT, 
+  id INTEGER
+  name TEXT,
   age INTEGER);
 
 CREATE TABLE pledges (project_id, user_id)
