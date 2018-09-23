@@ -14,3 +14,7 @@ INSERT INTO users (name)
   VALUES ("Burt");
 INSERT INTO users (name)
   VALUES ("Curt");
+INSERT INTO users (name)
+  VALUES ("Curt");
+INSERT INTO users (name)
+  VALUES ("Curt");  
