@@ -23,4 +23,10 @@ INSERT INTO users (name)
 INSERT INTO users (name)
   VALUES ("Kevin");
 INSERT INTO users (name)
-  VALUES ("Jack");  
+  VALUES ("Jack");
+INSERT INTO users (name)
+  VALUES ("Curt");
+INSERT INTO users (name)
+  VALUES ("Curt");
+INSERT INTO users (name)
+  VALUES ("Curt");
