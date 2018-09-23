@@ -11,4 +11,6 @@ CREATE TABLE users (
   name TEXT,
   age INTEGER);
 
-CREATE TABLE pledges (project_id, user_id)
+CREATE TABLE pledges (
+  project_id,
+  user_id);
