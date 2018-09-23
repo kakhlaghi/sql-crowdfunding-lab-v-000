@@ -12,5 +12,6 @@ CREATE TABLE users (
   age INTEGER);
 
 CREATE TABLE pledges (
+  id INTEGER PRIMARY KEY,
   project_id,
   user_id);
