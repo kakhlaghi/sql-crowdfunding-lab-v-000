@@ -6,6 +6,8 @@ CREATE TABLE projects (
   start_date TEXT,
   end_date TEXT);
 
-CREATE TABLE users (name, age);
+CREATE TABLE users (
+  name TEXT, 
+  age INTEGER);
 
 CREATE TABLE pledges (project_id, user_id)
